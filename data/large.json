@@ -1,0 +1,1614 @@
+{
+  "name": "large",
+  "days": 5,
+  "slots_per_day": 6,
+  "faculty": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9",
+    "F10",
+    "F11",
+    "F12",
+    "F13",
+    "F14",
+    "F15",
+    "F16",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "F21",
+    "F22",
+    "F23",
+    "F24",
+    "F25"
+  ],
+  "rooms": [
+    {
+      "id": "R1",
+      "capacity": 75
+    },
+    {
+      "id": "R2",
+      "capacity": 60
+    },
+    {
+      "id": "R3",
+      "capacity": 90
+    },
+    {
+      "id": "R4",
+      "capacity": 45
+    },
+    {
+      "id": "R5",
+      "capacity": 45
+    },
+    {
+      "id": "R6",
+      "capacity": 45
+    },
+    {
+      "id": "R7",
+      "capacity": 75
+    },
+    {
+      "id": "R8",
+      "capacity": 45
+    },
+    {
+      "id": "R9",
+      "capacity": 60
+    },
+    {
+      "id": "R10",
+      "capacity": 45
+    },
+    {
+      "id": "R11",
+      "capacity": 45
+    },
+    {
+      "id": "R12",
+      "capacity": 90
+    },
+    {
+      "id": "R13",
+      "capacity": 90
+    },
+    {
+      "id": "R14",
+      "capacity": 45
+    }
+  ],
+  "sections": [
+    {
+      "id": "S1",
+      "size": 47
+    },
+    {
+      "id": "S2",
+      "size": 42
+    },
+    {
+      "id": "S3",
+      "size": 57
+    },
+    {
+      "id": "S4",
+      "size": 53
+    },
+    {
+      "id": "S5",
+      "size": 41
+    },
+    {
+      "id": "S6",
+      "size": 66
+    },
+    {
+      "id": "S7",
+      "size": 58
+    },
+    {
+      "id": "S8",
+      "size": 43
+    },
+    {
+      "id": "S9",
+      "size": 70
+    },
+    {
+      "id": "S10",
+      "size": 47
+    },
+    {
+      "id": "S11",
+      "size": 60
+    },
+    {
+      "id": "S12",
+      "size": 60
+    },
+    {
+      "id": "S13",
+      "size": 58
+    },
+    {
+      "id": "S14",
+      "size": 70
+    },
+    {
+      "id": "S15",
+      "size": 41
+    },
+    {
+      "id": "S16",
+      "size": 58
+    },
+    {
+      "id": "S17",
+      "size": 58
+    },
+    {
+      "id": "S18",
+      "size": 52
+    },
+    {
+      "id": "S19",
+      "size": 41
+    },
+    {
+      "id": "S20",
+      "size": 47
+    }
+  ],
+  "sessions": [
+    {
+      "id": 0,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 1,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 2,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 3,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 4,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F14",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 5,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 6,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 7,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F4",
+      "section": "S1",
+      "duration": 2
+    },
+    {
+      "id": 8,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F19",
+      "section": "S1",
+      "duration": 2
+    },
+    {
+      "id": 9,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 10,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 11,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 12,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 13,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 14,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 15,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 16,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F21",
+      "section": "S2",
+      "duration": 2
+    },
+    {
+      "id": 17,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F7",
+      "section": "S2",
+      "duration": 2
+    },
+    {
+      "id": 18,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 19,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 20,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 21,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F23",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 22,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 23,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 24,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 25,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F20",
+      "section": "S3",
+      "duration": 2
+    },
+    {
+      "id": 26,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F7",
+      "section": "S3",
+      "duration": 2
+    },
+    {
+      "id": 27,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 28,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 29,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 30,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F14",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 31,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F25",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 32,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F11",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 33,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F15",
+      "section": "S4",
+      "duration": 1
+    },
+    {
+      "id": 34,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F19",
+      "section": "S4",
+      "duration": 2
+    },
+    {
+      "id": 35,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F15",
+      "section": "S4",
+      "duration": 2
+    },
+    {
+      "id": 36,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 37,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 38,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F8",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 39,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 40,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F23",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 41,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F25",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 42,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F8",
+      "section": "S5",
+      "duration": 1
+    },
+    {
+      "id": 43,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F3",
+      "section": "S5",
+      "duration": 2
+    },
+    {
+      "id": 44,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F19",
+      "section": "S5",
+      "duration": 2
+    },
+    {
+      "id": 45,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 46,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F17",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 47,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 48,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F11",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 49,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F24",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 50,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F15",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 51,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S6",
+      "duration": 1
+    },
+    {
+      "id": 52,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F20",
+      "section": "S6",
+      "duration": 2
+    },
+    {
+      "id": 53,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F3",
+      "section": "S6",
+      "duration": 2
+    },
+    {
+      "id": 54,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 55,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F17",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 56,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F14",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 57,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 58,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F25",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 59,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F11",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 60,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S7",
+      "duration": 1
+    },
+    {
+      "id": 61,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F16",
+      "section": "S7",
+      "duration": 2
+    },
+    {
+      "id": 62,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F14",
+      "section": "S7",
+      "duration": 2
+    },
+    {
+      "id": 63,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 64,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 65,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 66,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F25",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 67,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 68,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 69,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F11",
+      "section": "S8",
+      "duration": 1
+    },
+    {
+      "id": 70,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F11",
+      "section": "S8",
+      "duration": 2
+    },
+    {
+      "id": 71,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F23",
+      "section": "S8",
+      "duration": 2
+    },
+    {
+      "id": 72,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 73,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F20",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 74,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 75,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 76,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F15",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 77,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 78,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S9",
+      "duration": 1
+    },
+    {
+      "id": 79,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F9",
+      "section": "S9",
+      "duration": 2
+    },
+    {
+      "id": 80,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F16",
+      "section": "S9",
+      "duration": 2
+    },
+    {
+      "id": 81,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F23",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 82,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 83,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 84,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 85,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F24",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 86,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F23",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 87,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S10",
+      "duration": 1
+    },
+    {
+      "id": 88,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F21",
+      "section": "S10",
+      "duration": 2
+    },
+    {
+      "id": 89,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F19",
+      "section": "S10",
+      "duration": 2
+    },
+    {
+      "id": 90,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 91,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F15",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 92,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F10",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 93,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F23",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 94,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 95,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 96,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S11",
+      "duration": 1
+    },
+    {
+      "id": 97,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F1",
+      "section": "S11",
+      "duration": 2
+    },
+    {
+      "id": 98,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F15",
+      "section": "S11",
+      "duration": 2
+    },
+    {
+      "id": 99,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 100,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 101,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F20",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 102,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 103,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 104,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 105,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F7",
+      "section": "S12",
+      "duration": 1
+    },
+    {
+      "id": 106,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F25",
+      "section": "S12",
+      "duration": 2
+    },
+    {
+      "id": 107,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F10",
+      "section": "S12",
+      "duration": 2
+    },
+    {
+      "id": 108,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 109,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F24",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 110,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F8",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 111,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 112,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 113,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 114,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S13",
+      "duration": 1
+    },
+    {
+      "id": 115,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F6",
+      "section": "S13",
+      "duration": 2
+    },
+    {
+      "id": 116,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F15",
+      "section": "S13",
+      "duration": 2
+    },
+    {
+      "id": 117,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 118,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 119,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F9",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 120,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 121,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F14",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 122,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 123,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F9",
+      "section": "S14",
+      "duration": 1
+    },
+    {
+      "id": 124,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F23",
+      "section": "S14",
+      "duration": 2
+    },
+    {
+      "id": 125,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F14",
+      "section": "S14",
+      "duration": 2
+    },
+    {
+      "id": 126,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 127,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 128,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 129,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F8",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 130,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 131,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 132,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S15",
+      "duration": 1
+    },
+    {
+      "id": 133,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F5",
+      "section": "S15",
+      "duration": 2
+    },
+    {
+      "id": 134,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F8",
+      "section": "S15",
+      "duration": 2
+    },
+    {
+      "id": 135,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 136,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F8",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 137,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 138,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 139,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 140,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 141,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F9",
+      "section": "S16",
+      "duration": 1
+    },
+    {
+      "id": 142,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F10",
+      "section": "S16",
+      "duration": 2
+    },
+    {
+      "id": 143,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F1",
+      "section": "S16",
+      "duration": 2
+    },
+    {
+      "id": 144,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 145,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F14",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 146,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 147,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F12",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 148,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F20",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 149,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F19",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 150,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F11",
+      "section": "S17",
+      "duration": 1
+    },
+    {
+      "id": 151,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F5",
+      "section": "S17",
+      "duration": 2
+    },
+    {
+      "id": 152,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F23",
+      "section": "S17",
+      "duration": 2
+    },
+    {
+      "id": 153,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F17",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 154,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F20",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 155,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F21",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 156,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F22",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 157,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F24",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 158,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 159,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F15",
+      "section": "S18",
+      "duration": 1
+    },
+    {
+      "id": 160,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F25",
+      "section": "S18",
+      "duration": 2
+    },
+    {
+      "id": 161,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F22",
+      "section": "S18",
+      "duration": 2
+    },
+    {
+      "id": 162,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F18",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 163,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 164,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 165,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 166,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F13",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 167,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 168,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F16",
+      "section": "S19",
+      "duration": 1
+    },
+    {
+      "id": 169,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F21",
+      "section": "S19",
+      "duration": 2
+    },
+    {
+      "id": 170,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F13",
+      "section": "S19",
+      "duration": 2
+    },
+    {
+      "id": 171,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F2",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 172,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F7",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 173,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 174,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F7",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 175,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F15",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 176,
+      "subject": "Python",
+      "type": "theory",
+      "faculty": "F6",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 177,
+      "subject": "AI",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S20",
+      "duration": 1
+    },
+    {
+      "id": 178,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F11",
+      "section": "S20",
+      "duration": 2
+    },
+    {
+      "id": 179,
+      "subject": "OS Lab",
+      "type": "lab",
+      "faculty": "F20",
+      "section": "S20",
+      "duration": 2
+    }
+  ]
+}

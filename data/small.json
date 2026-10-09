@@ -1,0 +1,190 @@
+{
+  "name": "small",
+  "days": 5,
+  "slots_per_day": 6,
+  "faculty": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5"
+  ],
+  "rooms": [
+    {
+      "id": "R1",
+      "capacity": 75
+    },
+    {
+      "id": "R2",
+      "capacity": 60
+    },
+    {
+      "id": "R3",
+      "capacity": 90
+    },
+    {
+      "id": "R4",
+      "capacity": 45
+    }
+  ],
+  "sections": [
+    {
+      "id": "S1",
+      "size": 42
+    },
+    {
+      "id": "S2",
+      "size": 66
+    },
+    {
+      "id": "S3",
+      "size": 57
+    }
+  ],
+  "sessions": [
+    {
+      "id": 0,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 1,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F3",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 2,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 3,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 4,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S1",
+      "duration": 1
+    },
+    {
+      "id": 5,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F2",
+      "section": "S1",
+      "duration": 2
+    },
+    {
+      "id": 6,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 7,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 8,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 9,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 10,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S2",
+      "duration": 1
+    },
+    {
+      "id": 11,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F2",
+      "section": "S2",
+      "duration": 2
+    },
+    {
+      "id": 12,
+      "subject": "DSA",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 13,
+      "subject": "OS",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 14,
+      "subject": "DBMS",
+      "type": "theory",
+      "faculty": "F4",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 15,
+      "subject": "CAPP",
+      "type": "theory",
+      "faculty": "F1",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 16,
+      "subject": "Maths",
+      "type": "theory",
+      "faculty": "F5",
+      "section": "S3",
+      "duration": 1
+    },
+    {
+      "id": 17,
+      "subject": "DSA Lab",
+      "type": "lab",
+      "faculty": "F1",
+      "section": "S3",
+      "duration": 2
+    }
+  ]
+}
